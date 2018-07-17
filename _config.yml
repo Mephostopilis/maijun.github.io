@@ -4,9 +4,9 @@
 baseurl:
 url: https://918.zone
 date_format: "ordinal"
-title: 机器人儿童教育
+title: 玩中学机器人少儿教育
 subtitle: "传播stem教育"
-description: "玩中学机器人教育博客"
+description: "玩中学机器人少儿教育博客"
 keywords: robot
 timezone: Asia/Shanghai
 encoding: "utf-8"
@@ -38,9 +38,9 @@ navs:
 #     href: /archives/
 #     label: 归档
 
-  -
-    href: /wiki/
-    label: 维基
+#   -
+#     href: /wiki/
+#     label: 维基
 
   -
     href: /links/
@@ -95,14 +95,14 @@ disqus:
     username: 
 # https://imsun.net/posts/gitment-introduction/
 gitment:
-    owner: Mr. Hu
+    owner: mephostopilis
     repo: blog-comments
     oauth:
         client_id: 86ce248cb05ea769612b
         client_secret: 01ee640d2baf5deb61b7481af9adfc2b4c6e6747
 # https://github.com/gitalk/gitalk#install
 gitalk:
-    owner: Mr. Hu
+    owner: mephostopilis
     repo: blog-comments
     clientID: 86ce248cb05ea769612b
     clientSecret: 01ee640d2baf5deb61b7481af9adfc2b4c6e6747
