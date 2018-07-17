@@ -2,12 +2,12 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://mazhuang.org
+url: https://918.zone
 date_format: "ordinal"
-title: 码志
-subtitle: "打码改变人生"
-description: "马壮的个人博客"
-keywords: 码志, Zhuang Ma, mzlogin, mazhuang
+title: 机器人儿童教育
+subtitle: "传播stem教育"
+description: "玩中学机器人教育博客"
+keywords: robot
 timezone: Asia/Shanghai
 encoding: "utf-8"
 side_bar_repo_limit: 5
@@ -15,12 +15,12 @@ side_bar_repo_limit: 5
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Zhuang Ma
-organization: zkh360.com
-organization_url: http://www.zkh360.com
-github_username: mzlogin
-location: Wuhan, China
-email: chumpma@gmail.com
+author: 机器人教育胡老师
+organization: 918.zone
+organization_url: https://918.zone
+github_username: 
+location: Mianyang, China
+email: gstemrobot2018@163.com
 
 # ---------------- #
 #    Navigation    #
@@ -81,7 +81,7 @@ collections:
         output: true
         permalink: /wiki/:path/
 
-repository: mzlogin/mzlogin.github.io
+repository: mephostopilis/mephostopilis.github.io
 
 # ---------------- #
 #      Comments    #
@@ -95,17 +95,17 @@ disqus:
     username: 
 # https://imsun.net/posts/gitment-introduction/
 gitment:
-    owner: mzlogin
+    owner: Mr. Hu
     repo: blog-comments
     oauth:
-        client_id: d2e1cbbd298958076462
-        client_secret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
+        client_id: 86ce248cb05ea769612b
+        client_secret: 01ee640d2baf5deb61b7481af9adfc2b4c6e6747
 # https://github.com/gitalk/gitalk#install
 gitalk:
-    owner: mzlogin
+    owner: Mr. Hu
     repo: blog-comments
-    clientID: d2e1cbbd298958076462
-    clientSecret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
+    clientID: 86ce248cb05ea769612b
+    clientSecret: 01ee640d2baf5deb61b7481af9adfc2b4c6e6747
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : false
 
