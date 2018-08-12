@@ -1,2 +1,2 @@
-# mephostopilis.github.io
+# 918.zone
 blog
